@@ -139,7 +139,7 @@ print(max)
 
 #Output: 40
 ```
-## Please Sum value in row
+## 12. Please Sum value in row
 ```phython
 arr2D = [
 [1, 2, 3],
